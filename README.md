@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://quote.nb8floral.com/static/icon-256.png" width="96" alt="NB8 Floral">
+  <img src="https://quote.nb8floral.com/static/nb8-logo-512.png" width="140" alt="NB8 Floral">
 </p>
 
 # NB8 Floral MCP Server

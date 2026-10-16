@@ -11,7 +11,14 @@
   },
   "icons": [
     {
-      "src": "https://quote.nb8floral.com/static/icon-256.png",
+      "src": "https://quote.nb8floral.com/static/nb8-logo-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://quote.nb8floral.com/static/nb8-logo-256.png",
       "mimeType": "image/png",
       "sizes": [
         "256x256"
