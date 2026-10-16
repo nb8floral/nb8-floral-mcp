@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.nb8floral/nb8-floral",
+  "title": "NB8 Floral",
+  "description": "Search, price and order NB8 Floral artificial silk flowers, and identify flowers in a photo.",
+  "version": "1.0.0",
+  "websiteUrl": "https://quote.nb8floral.com/ai",
+  "repository": {
+    "url": "https://github.com/nb8floral/nb8-floral-mcp",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://quote.nb8floral.com/static/icon-256.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "256x256"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://quote.nb8floral.com/mcp"
+    }
+  ]
+}
