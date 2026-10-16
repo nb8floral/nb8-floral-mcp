@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "com.nb8floral/nb8-floral",
+  "name": "io.github.nb8floral/nb8-floral",
   "title": "NB8 Floral",
   "description": "Search, price and order NB8 Floral artificial silk flowers, and identify flowers in a photo.",
   "version": "1.0.0",
