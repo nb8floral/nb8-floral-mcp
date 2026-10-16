@@ -17,12 +17,12 @@ https://quote.nb8floral.com/mcp
 
 Transport: Streamable HTTP · Authentication: none
 
-[![Claude Directory](https://img.shields.io/badge/Claude-Connectors%20Directory-D97757)](https://claude.ai/directory/connectors/nb8-floral)
+[![Claude Directory](https://img.shields.io/badge/Claude-Connectors%20Directory-D97757)](https://claude.ai/directory/nb8-floral)
 
 ## Add it to your assistant
 
 **Claude** — install from the
-[Connectors Directory](https://claude.ai/directory/connectors/nb8-floral), or go to
+[Connectors Directory](https://claude.ai/directory/nb8-floral), or go to
 Settings → Connectors → Add custom connector, paste the URL above and choose *No sign-in*.
 
 **ChatGPT** — turn on developer mode (Settings → Apps & Connectors → Advanced), then create a
