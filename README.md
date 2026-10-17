@@ -68,8 +68,8 @@ they never place an order or move money).
   No minimum order — one pack is enough.
 - Online checkout ships to the contiguous United States (not Alaska or Hawaii), with free shipping.
   US-warehouse items arrive in about 7 days; other listed items ship from our factory in about 30 days.
-- Pre-order items are made to order (about 45 days) and show an estimated price per stem or bunch;
-  international shipping is quoted separately and they are ordered by quote.
+- Pre-order items are made to order and show an estimated price per stem or bunch; the lead time
+  is agreed when you order, international shipping is quoted separately, and they are ordered by quote.
 - Photo identification is rate-limited per day.
 
 ## Privacy
